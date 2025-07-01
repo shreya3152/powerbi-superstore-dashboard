@@ -13,7 +13,11 @@ This Power BI project analyzes sales, profit, discount, and order trends using t
 
 ## Dataset:
 Sample Superstore dataset from Tableau or Kaggle
+link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
 
 ## Tools:
 - Power BI Desktop
 - DAX
+
+## Output:
+The PerfomanceDashboard.pdf shows the output for the project.
